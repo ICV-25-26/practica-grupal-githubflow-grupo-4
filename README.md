@@ -7,3 +7,5 @@ REGLAS DE PROYECTO:
 -- Los commit realizados tendrán la siguiente estructura: "iniciales_pequeñadescripción"
 
 -- Metodología de trabajo basada en GitHub Flow
+
+-- Prueba pa hacer una pull request
